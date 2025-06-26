@@ -1,2 +1,2 @@
-token = "token"
-prefix = "prefix"
+token = "MTM2NTQ1MDMyMjQ0ODc0NDU0MA.GXnCz3.Hg2DtCGLybu3rVyD_MPZ_Bt387jftFH0HA_c9Y"
+prefix = "!"
